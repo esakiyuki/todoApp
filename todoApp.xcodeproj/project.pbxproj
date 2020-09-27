@@ -13,6 +13,8 @@
 		AE240CBD25205ADF00FBBD21 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE240CBB25205ADF00FBBD21 /* Main.storyboard */; };
 		AE240CBF25205AE800FBBD21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE240CBE25205AE800FBBD21 /* Assets.xcassets */; };
 		AE240CC225205AE800FBBD21 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE240CC025205AE800FBBD21 /* LaunchScreen.storyboard */; };
+		AE240CCC25205E5500FBBD21 /* ListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE240CCB25205E5500FBBD21 /* ListTableViewController.swift */; };
+		AE240CCE2520619100FBBD21 /* ListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE240CCD2520619100FBBD21 /* ListTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		AE240CBE25205AE800FBBD21 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE240CC125205AE800FBBD21 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE240CC325205AE800FBBD21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE240CCB25205E5500FBBD21 /* ListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewController.swift; sourceTree = "<group>"; };
+		AE240CCD2520619100FBBD21 /* ListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				AE240CBE25205AE800FBBD21 /* Assets.xcassets */,
 				AE240CC025205AE800FBBD21 /* LaunchScreen.storyboard */,
 				AE240CC325205AE800FBBD21 /* Info.plist */,
+				AE240CCB25205E5500FBBD21 /* ListTableViewController.swift */,
+				AE240CCD2520619100FBBD21 /* ListTableViewCell.swift */,
 			);
 			path = todoApp;
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 				AE240CBA25205ADF00FBBD21 /* ViewController.swift in Sources */,
 				AE240CB625205ADF00FBBD21 /* AppDelegate.swift in Sources */,
 				AE240CB825205ADF00FBBD21 /* SceneDelegate.swift in Sources */,
+				AE240CCC25205E5500FBBD21 /* ListTableViewController.swift in Sources */,
+				AE240CCE2520619100FBBD21 /* ListTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
